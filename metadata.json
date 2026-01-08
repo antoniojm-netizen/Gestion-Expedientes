@@ -1,0 +1,7 @@
+{
+  "name": "Expedientes - Gestión Jurídica",
+  "description": "Una aplicación integral para la gestión de expedientes judiciales, clientes, abogados y procuradores, con integración de IA para análisis de casos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
